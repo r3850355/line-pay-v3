@@ -18,7 +18,7 @@
   "author": "RenZhou",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "crypto-js": "^3.1.9-1",
     "json-bigint": "^1.0.0",
     "uuid": "^3.3.3"
